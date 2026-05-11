@@ -1,0 +1,49 @@
+{
+  "name": "Your Name",
+  "location": "City, Country",
+  "email": "your@email.com",
+  "phone": "+351 xxx xxx xxx",
+  "education": [
+    {
+      "degree": "MSc in X",
+      "institution": "Faculty of Engineering, University of Porto (FEUP)",
+      "status": "completing",
+      "year": "2026"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Your Role",
+      "company": "Your Company",
+      "duration": "X years",
+      "highlights": [
+        "Key achievement or responsibility 1",
+        "Key achievement or responsibility 2",
+        "Key achievement or responsibility 3",
+        "Key achievement or responsibility 4"
+      ]
+    }
+  ],
+  "bachelor_thesis": {
+    "title": "Your thesis title",
+    "description": "Brief description of your thesis topic and methods used"
+  },
+  "skills": [
+    "Computer Vision",
+    "Machine Learning",
+    "Deep Learning",
+    "Python",
+    "Real-time systems",
+    "Time-series data analysis",
+    "Natural Language Processing",
+    "Pose estimation",
+    "WebSocket architectures",
+    "Signal processing"
+  ],
+  "interests": [
+    "Your research interest 1",
+    "Your research interest 2",
+    "Your research interest 3"
+  ],
+  "languages": ["English", "Your language"]
+}
